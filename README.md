@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Neha Priya Singh
 
-## 🚀 Technology Manager | Data Scientist | Product & Business Analyst  
+## 🚀 Technology Manager | Data Analyst | Product & Business Analyst | Data Science 
 
 ### 🔍 About Me  
-- Passionate about **data science, analytics, product management, and automation**  
-- Skilled in **Python, SQL, Power BI, Tableau, ML, NLP, and Data Visualization**  
+- Passionate about **data analytics business analysis, product analysis & management,data automation and data science**  
+- Skilled in **Python, SQL, Advance Excel, Power BI, Tableau, Zoho Analytics, Microsoft 365, ML, NLP, and Data Visualization**  
 - Exploring **AI, Business Intelligence, and CRM automation**  
 
 ### 🛠️ What I Do  
